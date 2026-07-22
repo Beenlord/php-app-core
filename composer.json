@@ -1,6 +1,6 @@
 {
     "name": "beenlord/php-app-core",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "description": "Пример рабочего GIT-образного Composer пакета",
     "type": "library",
     "license": "MIT",
