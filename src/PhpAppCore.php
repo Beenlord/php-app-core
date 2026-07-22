@@ -1,6 +1,6 @@
 <?php
 
-namespace Beenlord;
+namespace Beenlord\PhpAppCore;
 
 class PhpAppCore {
     static function example() {
